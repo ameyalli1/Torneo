@@ -1,0 +1,24 @@
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\bin\Debug\netstandard2.0\Torneo.BIZ.deps.json
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\bin\Debug\netstandard2.0\Torneo.BIZ.dll
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\bin\Debug\netstandard2.0\Torneo.BIZ.pdb
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\bin\Debug\netstandard2.0\Torneo.COMMON.dll
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\bin\Debug\netstandard2.0\Torneo.COMMON.pdb
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.csprojResolveAssemblyReference.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.csproj.CoreCompileInputs.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.AssemblyInfoInputs.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.AssemblyInfo.cs
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.csproj.CopyComplete
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.dll
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\bin\Debug\netstandard2.0\Torneo.BIZ.deps.json
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\bin\Debug\netstandard2.0\Torneo.BIZ.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\bin\Debug\netstandard2.0\Torneo.BIZ.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\bin\Debug\netstandard2.0\Torneo.COMMON.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\bin\Debug\netstandard2.0\Torneo.COMMON.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.AssemblyInfoInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.AssemblyInfo.cs
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.csproj.CopyComplete
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.BIZ\obj\Debug\netstandard2.0\Torneo.BIZ.pdb

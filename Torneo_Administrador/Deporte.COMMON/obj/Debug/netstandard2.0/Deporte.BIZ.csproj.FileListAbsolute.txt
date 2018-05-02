@@ -1,0 +1,6 @@
+c:\users\daniela\source\repos\Torneo_Administrador\Deporte.COMMON\bin\Debug\netstandard2.0\Deporte.BIZ.deps.json
+c:\users\daniela\source\repos\Torneo_Administrador\Deporte.COMMON\bin\Debug\netstandard2.0\Deporte.BIZ.dll
+c:\users\daniela\source\repos\Torneo_Administrador\Deporte.COMMON\obj\Debug\netstandard2.0\Deporte.BIZ.csprojResolveAssemblyReference.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Deporte.COMMON\obj\Debug\netstandard2.0\Deporte.BIZ.csproj.CoreCompileInputs.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Deporte.COMMON\obj\Debug\netstandard2.0\Deporte.BIZ.AssemblyInfoInputs.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Deporte.COMMON\obj\Debug\netstandard2.0\Deporte.BIZ.AssemblyInfo.cs

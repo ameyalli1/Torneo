@@ -1,0 +1,5 @@
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\GeneradoraDePuntos\bin\Debug\netstandard2.0\GeneradoraDePuntos.deps.json
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\GeneradoraDePuntos\bin\Debug\netstandard2.0\GeneradoraDePuntos.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\GeneradoraDePuntos\obj\Debug\netstandard2.0\GeneradoraDePuntos.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\GeneradoraDePuntos\obj\Debug\netstandard2.0\GeneradoraDePuntos.AssemblyInfoInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\GeneradoraDePuntos\obj\Debug\netstandard2.0\GeneradoraDePuntos.AssemblyInfo.cs

@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entidades\MainWindow.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiteDB" Version="4.1.2" />
+    <PackageReference Include="MongoDB.Bson" Version="2.6.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.6.0" />
+    <PackageReference Include="OxyPlot.Wpf" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="..\Entrada\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <Link>MainWindow.xaml</Link>
+    </Page>
+    <Page Include="Entidades\MainWindow.xaml" />
+  </ItemGroup>
+
+</Project>

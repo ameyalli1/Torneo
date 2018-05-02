@@ -1,0 +1,24 @@
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\bin\Debug\netstandard2.0\Torneo.COMMON.dll
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.csprojResolveAssemblyReference.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.csproj.CoreCompileInputs.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.AssemblyInfoInputs.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.AssemblyInfo.cs
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\bin\Debug\netstandard2.0\Torneo.DAL.deps.json
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\bin\Debug\netstandard2.0\Torneo.DAL.dll
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\bin\Debug\netstandard2.0\Torneo.DAL.pdb
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\bin\Debug\netstandard2.0\Torneo.COMMON.pdb
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.csproj.CopyComplete
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.dll
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\bin\Debug\netstandard2.0\Torneo.DAL.deps.json
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\bin\Debug\netstandard2.0\Torneo.DAL.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\bin\Debug\netstandard2.0\Torneo.DAL.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\bin\Debug\netstandard2.0\Torneo.COMMON.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\bin\Debug\netstandard2.0\Torneo.COMMON.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.AssemblyInfoInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.AssemblyInfo.cs
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.csproj.CopyComplete
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.DAL\obj\Debug\netstandard2.0\Torneo.DAL.pdb

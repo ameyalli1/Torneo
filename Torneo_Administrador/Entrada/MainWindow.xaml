@@ -1,0 +1,66 @@
+﻿<Window x:Class="Entrada.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Entrada"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="320" Width="510">
+    <Window.Background>
+        <ImageBrush ImageSource="Imagenes/Logo-Torneo-Corporativo.png"/>
+    </Window.Background>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Imagenes/colores.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <WrapPanel Grid.Row="1" Orientation="Vertical" Margin="20" HorizontalAlignment="Center">
+            <TextBlock  Width="70"  Foreground="#FF080202" FontWeight="Bold" FontSize="18" FontFamily="Segoe UI Black"><Run Text="INICIO"/></TextBlock>
+        </WrapPanel>
+
+        <WrapPanel Grid.Row="2" Orientation="Vertical" Margin="20" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock  Width="100" Foreground="#FF080202" FontWeight="Bold" FontSize="17">Ussuario</TextBlock>
+                <ComboBox  Width="190" x:Name="cmbUsuarioInicio" />
+            </StackPanel>
+        </WrapPanel>
+        <WrapPanel Grid.Row="3" Orientation="Vertical" Margin="15" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Width="100" Foreground="#FF080202" FontWeight="Bold" FontSize="17">Contraceña</TextBlock>
+                <PasswordBox  Width="190" x:Name="txtContraceñaInicio"/>
+            </StackPanel>
+        </WrapPanel>
+
+
+        <Button Width="70" x:Name="btnEntrar"  Click="btnEntrar_Click"  Margin="169,12,263,8" Grid.Row="4">
+            <StackPanel Orientation="Horizontal" >
+                <Label>Entrar</Label>
+                <Image Width="16" Source="/Imagenes/door_in.png" ></Image>
+            </StackPanel>
+        </Button>
+
+        <Button Width="70" x:Name="btnSalir" Click="btnSalir_Click"  Margin="280,12,152,8" Grid.Row="4">
+            <StackPanel Orientation="Horizontal" >
+                <Label>Salir</Label>
+                <Image Width="16" Source="/Imagenes/cross.png" ></Image>
+            </StackPanel>
+        </Button>
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,18 @@
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.COMMON\bin\Debug\netstandard2.0\Torneo.COMMON.deps.json
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.COMMON\bin\Debug\netstandard2.0\Torneo.COMMON.dll
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.csprojResolveAssemblyReference.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.csproj.CoreCompileInputs.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.AssemblyInfoInputs.cache
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.AssemblyInfo.cs
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.COMMON\bin\Debug\netstandard2.0\Torneo.COMMON.pdb
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.dll
+c:\users\daniela\source\repos\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.COMMON\bin\Debug\netstandard2.0\Torneo.COMMON.deps.json
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.COMMON\bin\Debug\netstandard2.0\Torneo.COMMON.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.COMMON\bin\Debug\netstandard2.0\Torneo.COMMON.pdb
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.AssemblyInfoInputs.cache
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.AssemblyInfo.cs
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.dll
+C:\Users\Daniela\Documents\ITESHU\SEMESTRE 2\TRAB_PROGRAMACION\U5\Torneo_Administrador\Torneo.COMMON\obj\Debug\netstandard2.0\Torneo.COMMON.pdb
